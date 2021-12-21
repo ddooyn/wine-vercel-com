@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 
-const Port: NextPage = () => {
+const PortWinePage: NextPage = () => {
     return (
         <div>
             <h1>Port</h1>
@@ -8,4 +8,4 @@ const Port: NextPage = () => {
     )
 }
 
-export default Port;
+export default PortWinePage;
